@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "title": "A single-scene screenplay"
+    },
+
+    "sources": [
+        {
+        "id": "1",
+        "type": "iiifImage",
+        "imageEndpoint": "https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:x633fb18t"
+        }
+    ],
+    
+    "scenes": [
+        {
+            "source": "1",
+            "caption": {
+                "text": "This is a map made by John Speed"
+            }
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blank panel-truck viewer</title>
+</head>
+<body>
+    
+<!-- polyfill for Web Components; you can omit if you don't want to support older browsers -->
+<script src="https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs/webcomponents-loader.js"></script>
+    
+<!-- you can omit the Vue import if Vue is already present -->
+<script src="https://cdn.jsdelivr.net/npm/vue@2.6.12"></script>
+
+<script src="https://geoservices.leventhalmap.org/panel-truck/webcomponent-0.2/panel-truck.min.js"></script>
+
+<div style="width:1000px;height:800px;" id="container"><!-- the panel-truck component will take the size of its parent element -->
+
+</div>
+
+<script>
+    const hash = window.location.hash.substring(1); 
+    window.onload = () => {
+        const pt = document.createElement('panel-truck')
+        pt.setAttribute('screenplay-src', `/screenplays/${hash}.json`)
+        document.getElementById("container").appendChild(pt)
+    };
+</script>
+
+</body>
+</html>
