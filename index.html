@@ -23,7 +23,7 @@
     const hash = window.location.hash.substring(1); 
     window.onload = () => {
         const pt = document.createElement('panel-truck')
-        pt.setAttribute('screenplay-src', `/screenplays/${hash}.json`)
+        pt.setAttribute('screenplay-src', `screenplays/${hash}.json`)
         document.getElementById("container").appendChild(pt)
     };
 </script>
