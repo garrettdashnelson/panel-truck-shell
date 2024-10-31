@@ -1,0 +1,344 @@
+{
+    "metadata": {
+        "title": "Outsider vs. Insider",
+        "author": "Emma Beckman",
+        "subtitle": "Views of New England and Massachusetts Twenty Years Apart",
+        "datePublished": "2024-10-31"
+    },
+    "sources": [
+        {
+            "type": "iiifManifest",
+            "manifest": "https://collections.leventhalmap.org/search/commonwealth:6t053p32g/manifest.json",
+            "sequence": 0,
+            "canvas": 0,
+            "image": 0,
+            "id": "1"
+        },
+        {
+            "type": "iiifManifest",
+            "manifest": "https://collections.leventhalmap.org/search/commonwealth:z603vg353/manifest.json",
+            "sequence": 0,
+            "canvas": 0,
+            "image": 0,
+            "id": "2"
+        }
+    ],
+    "scenes": [
+        {
+            "caption": {
+                "text": "This map from 1776 is quite large—102 x 98 cm or 40 x 38.5 inches! It had to be printed on two sheets and then attached together. Whoever attached these sheets was not very meticulous—much of the middle is duplicated. A viewer attempting to use this map for navigation might be confused.",
+                "title": "A Map of the most Inhabited part of New England (1776)"
+            },
+            "source": "1",
+            "timestamp": null,
+            "extent": "fit"
+        },
+        {
+            "caption": {
+                "text": "This is the cartouche. It tells us what the map is about and who made it. The decorative details provide subtle hints about the perspective of the mapmaker.",
+                "title": "The cartouche"
+            },
+            "source": "1",
+            "timestamp": null,
+            "extent": [
+                4681.444844256024,
+                -7176.656950068335,
+                6713.412031756029,
+                -5585.390934443338
+            ]
+        },
+        {
+            "caption": {
+                "text": "This scene shows a group of Europeans interacting with an Indigenous person. The European group includes women and children, indicating that they have arrived with the plan to stay for a while, rather than just a group of men exploring a new place. The Indigenous person is bowing toward the Europeans, indicating a lower status than the newcomers. The Europeans’ power is reinforced by the imagery of men carrying cargo onto the land.",
+                "title": null
+            },
+            "source": "1",
+            "timestamp": null,
+            "extent": [
+                5058.3524458110805,
+                -6940.85349640816,
+                5833.969828623581,
+                -6327.60095734566
+            ]
+        },
+        {
+            "caption": {
+                "text": "The woman beckoning the newcomers ahead is Liberty, indicated by the phryge on a stick. The phryge is a cap, associated with freedom and revolution. By 1776, Paul Revere had begun using Liberty with her phryge to represent the emerging entity of the United States, and French maps of this time defaulted to using her to represent America. It is not clear if this mapmaker is making an explicit political statement or following with mapping trends of this era.",
+                "title": null
+            },
+            "source": "1",
+            "timestamp": null,
+            "extent": [
+                5680.563767926605,
+                -6934.257176230999,
+                6110.983103864104,
+                -6339.340379355999
+            ]
+        },
+        {
+            "caption": {
+                "text": "The prominence of Plymouth Rock places this map into the larger historical timeline and participates in the general mythmaking of the European presence in North America. The newcomers in this illustration are not the first to arrive here but are carrying on a legacy of settlement and freedom.",
+                "title": null
+            },
+            "source": "1",
+            "timestamp": null,
+            "extent": [
+                6010.584534868843,
+                -7142.591359047581,
+                6618.963990044624,
+                -6734.394763930393
+            ]
+        },
+        {
+            "caption": {
+                "text": "Tobias Conrad Lotter (1717-1777) was a German mapmaker, who had likely never been to the colonies. He (or his studio) made this map based on surveys taken by other people. Lotter was the son-in-law of mapmaker Matthäus Seutter and eventually purchased half of Seutter’s business after his death. Lotter was a highly skilled engraver and was commissioned to make new maps such as this one.",
+                "title": "The Mapmaker - Tobias Conrad Lotter in Augsberg"
+            },
+            "source": "1",
+            "timestamp": null,
+            "extent": [
+                5120.588648721482,
+                -6208.726636762247,
+                6247.199433014747,
+                -5992.0849844648255
+            ]
+        },
+        {
+            "caption": {
+                "text": "Lotter lists the surveys from which this map was adapted – 1737, 1750 and 1754 are the given dates of the surveys, over 20 years before this map was made. Since Lotter could not check the accuracy by visiting the places, how might locations have changed (or knowledge about location accuracy) since these original surveys were taken? ",
+                "title": "List of surveys"
+            },
+            "source": "1",
+            "timestamp": null,
+            "extent": [
+                6324.693476112932,
+                -3279.974771910275,
+                7022.940937050433,
+                -2798.753873472775
+            ]
+        },
+        {
+            "caption": {
+                "text": "Despite his inclusion of some Revolutionary imagery, Lotter is making an attempt to remain neutral and accurate to the current state of the world. He included this note that acknowledges that the border between New York and New Hampshire is difficult to accurately depict at this point in time.",
+                "title": null
+            },
+            "source": "1",
+            "timestamp": null,
+            "extent": [
+                705.3111614487873,
+                -2396.625568009555,
+                1238.6620403550373,
+                -2166.505450822055
+            ]
+        },
+        {
+            "caption": {
+                "text": "This map measures longitude from the London prime meridian and the Ferro prime meridian (Ferro along the top border and London at the bottom). The Ferro meridian passes through the most westerly Canary Island, historically the most westerly point known to Europeans and used as a prime meridian as Europeans expanded across the Atlantic. Both the Ferro and London prime meridians are logical measuring points for a map made in Europe at this time, as they would situate a European viewer of this map, and they likely do not indicate explicit support for the British on this map.",
+                "title": "Longitude from London/Ferro"
+            },
+            "source": "1",
+            "timestamp": null,
+            "extent": [
+                6372.459762227184,
+                -2799.660685085696,
+                7107.569332539684,
+                -2593.3806069606962
+            ]
+        },
+        {
+            "caption": {
+                "text": "The mapmaker chose to identify both English and “Indian” inhabitations on this map, but they are marked to a vastly different degree. There appear to be two “Indian inhabitations” marked on this map (if you spot any others, please let us know!). They are both outside of the “most Inhabited parts of New England” or the colored areas on this map.",
+                "title": "\"Indian inhabitations\" vs. \"English inhabitations\""
+            },
+            "source": "1",
+            "timestamp": null,
+            "extent": [
+                6358.344021494191,
+                -3645.6127377548905,
+                6951.396267587941,
+                -3505.7118588486405
+            ]
+        },
+        {
+            "caption": {
+                "text": "This inhabitation is in modern-day Portland, Maine, described as the “Eastern part of Massachusetts” on this map. It is located directly across Stroud Water and Pokpokduk from a European meeting house, one of seven meeting houses in this eastern part. There are also six identified forts in this area and no “English inhabitations.”",
+                "title": null
+            },
+            "source": "1",
+            "timestamp": null,
+            "extent": [
+                5617.96995469457,
+                -1158.7205808223482,
+                6020.5580406320705,
+                -791.4636472285981
+            ]
+        },
+        {
+            "caption": {
+                "text": "The other “Indian inhabitation” is “Mohawks Lower Castle” in New York. It is located at the fork between Skoheri Creek and Mohawks River, along with Fort Hunter and a meeting house that serves as the “Seat of Sr. Wm. Johnson Bart.” The area just to the south is also widely labeled with “Mohawks”—perhaps an indication that this mapmaker and the surveys he relied on do not have a very clear idea of the living arrangements of the Mohawk people.",
+                "title": null
+            },
+            "source": "1",
+            "timestamp": null,
+            "extent": [
+                434.6912144758546,
+                -2842.2013623378843,
+                932.2879918196047,
+                -2471.8706006191346
+            ]
+        },
+        {
+            "caption": {
+                "text": "Meanwhile, there is a remarkable concentration of English inhabitations along the Connecticut River between Springfield, Massachusetts, and Hartford, Connecticut, within the brightly colored area of this map with no obvious “Indian inhabitations” nearby. Does the “most Inhabited area” only count European inhabitants?",
+                "title": null
+            },
+            "source": "1",
+            "timestamp": null,
+            "extent": [
+                2000.3931640624999,
+                -5062.261328125004,
+                2725.5068359375,
+                -4138.492578125004
+            ]
+        },
+        {
+            "caption": {
+                "text": "Massachusetts is central to the map and highlighted in red. Though the colors are likely just to separate the different provinces, the red is eye-catching and draws the viewer to the center of the map.",
+                "title": "Massachusetts"
+            },
+            "source": "1",
+            "timestamp": null,
+            "extent": [
+                938.2187500000009,
+                -5529.840625,
+                6639.812500000001,
+                -2470.4046875
+            ]
+        },
+        {
+            "caption": {
+                "text": "To reinforce the centrality of Massachusetts, this map has two inset maps that focus on the Boston area. Boston would have been the largest city in this region at this time, as it is today. These insets, including this one of Boston Harbor, give more detail about a newcomer’s possible first point of contact with New England.",
+                "title": null
+            },
+            "source": "1",
+            "timestamp": null,
+            "extent": [
+                3708.030810695131,
+                -7136.651737587187,
+                4749.915576320131,
+                -6168.014628212187
+            ]
+        },
+        {
+            "caption": {
+                "text": "Notably on this inset plan of Boston, the mapmaker chose to include the Liberty Tree on the Common as a feature of the city, alongside reference points that a modern visitor can visit today including Old South Meeting House and Faneuil Hall.",
+                "title": null
+            },
+            "source": "1",
+            "timestamp": null,
+            "extent": [
+                396.2721327391613,
+                -1688.6761595414312,
+                1401.7236952391613,
+                -200.27615954143084
+            ]
+        },
+        {
+            "caption": {
+                "text": "This map is from about 20 years later, after the official formation of the United States. This map is actually about the same size, 90 x 120 cm or about 35.5 x 47 inches, but it focuses on just Massachusetts. It was also printed on multiple sheets of paper, but the edges are much more carefully aligned. Let’s look at some differences between this map and the last one.",
+                "title": "Map of the commonwealth of Massachusetts exclusive of the district of Maine ([1795?])"
+            },
+            "source": "2",
+            "timestamp": null,
+            "extent": "fit"
+        },
+        {
+            "caption": {
+                "text": "This cartouche emphasizes Massachusetts as a unified, self-governed area, not under British control, with the arms of the Commonwealth of Massachusetts featured at the top. The anchor, nets, and barrels of fish indicate a connection with maritime business. And it is notable that the information all appears to be carved on a large rock.  ",
+                "title": "The cartouche"
+            },
+            "source": "2",
+            "timestamp": null,
+            "extent": [
+                267.95680338541814,
+                -6247.698372395835,
+                4427.54677734375,
+                -3350.6865559895855
+            ]
+        },
+        {
+            "caption": {
+                "text": "Each town has two numbers, the top is the distance from Boston and the bottom is distance from the county seat. This map is perhaps aimed more at people in Massachusetts to know more about the places within the Commonwealth and how they might navigate this space, rather than coming from outside.",
+                "title": "Distances"
+            },
+            "source": "2",
+            "timestamp": null,
+            "extent": [
+                3256.522184244791,
+                -3201.6813802083348,
+                5385.73107096354,
+                -789.3499348958355
+            ]
+        },
+        {
+            "caption": {
+                "text": "This mapmaker is clear about his perspective by choosing to label the longitude “East of Washington” especially because it situates the newly formed United States at the center of a new narrative of Massachusetts.",
+                "title": "Longitude East of Washington"
+            },
+            "source": "2",
+            "timestamp": null,
+            "extent": [
+                4621.104210016858,
+                -6418.270142643908,
+                5596.538682393957,
+                -6183.395127054341
+            ]
+        },
+        {
+            "caption": {
+                "text": "This legend, or “Explanation,” highlights early industry in Massachusetts – the mills and the natural resources, but also important gathering spaces for the people, such as academies, meeting houses, and court houses.",
+                "title": "Points of Interest"
+            },
+            "source": "2",
+            "timestamp": null,
+            "extent": [
+                4457.030208650976,
+                -6217.903794932097,
+                5573.440950688477,
+                -4768.403215890431
+            ]
+        },
+        {
+            "caption": {
+                "text": "This area near Andover and Methuen is a good example of the different industries coming together. The symbols are small and difficult to differentiate, but there appear to be meeting houses, grist mills, saw mills, an iron ore, and possibly a couple of furnaces, surrounded by rivers with bridges across them and interconnected roads.",
+                "title": null
+            },
+            "source": "2",
+            "timestamp": null,
+            "extent": [
+                5673.485696225504,
+                -1265.8508671347545,
+                6101.403705665609,
+                -861.9081425253795
+            ]
+        },
+        {
+            "caption": {
+                "text": "Mere “inhabitation” has been preempted by active growth and deeper establishment on this later map. The Commonwealth of Massachusetts has been founded for the long term and is projecting that vision into the future.",
+                "title": null
+            },
+            "source": "2",
+            "timestamp": null,
+            "extent": "fit"
+        },
+        {
+            "caption": {
+                "text": "Korshak, Yvonne. “The Liberty Cap as a Revolutionary Symbol in America and France.” Smithsonian Studies in American Art 1, No. 2 (Autumn, 1987): 52-69. “The Liberty Cap: Symbol of American Freedom.” <a href='https://www.aoc.gov/explore-capitol-campus/blog/liberty-cap-symbol-american-freedom'>Architect of the Capitol.</a> Accessed October 29, 2024. https://www.aoc.gov/explore-capitol-campus/blog/liberty-cap-symbol-american-freedom. Raines, Amelia. “Research Guides: Cartographic Resources for Genealogical Research: Eastern Europe and Russia: Latitude and Longitude.” Research guide. Accessed October 29, 2024. https://guides.loc.gov/maps-genealogy-eastern-europe/coordinates/latitude-longitude. Ritter, Michael. “Seutter, Probst and Lotter: An Eighteenth‐century Map Publishing House in Germany.” Imago Mundi 53, no. 1 (January 1, 2001): 130–35. ",
+                "title": "References"
+            },
+            "source": "1",
+            "timestamp": null,
+            "extent": "fit"
+        }
+    ]
+}
