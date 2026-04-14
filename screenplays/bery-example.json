@@ -1,0 +1,602 @@
+{
+    "metadata": {
+        "title": "Touring Boston on the Boston Elevated",
+        "author": "Garrett Dash Nelson",
+        "datePublished": "2024-04-15"
+    },
+    "sources": [
+        {
+            "type": "iiifManifest",
+            "manifest": "https://collections.leventhalmap.org/search/commonwealth:2j62vn387/manifest",
+            "sequence": 0,
+            "canvas": 0,
+            "image": 0,
+            "moreInfo": "https://collections.leventhalmap.org/search/commonwealth:2j62vn387",
+            "id": "1"
+        },
+        {
+            "type": "iiifManifest",
+            "manifest": "https://www.digitalcommonwealth.org/search/commonwealth:n0101p932/manifest",
+            "sequence": 0,
+            "canvas": 0,
+            "image": 0,
+            "id": "2"
+        },
+        {
+            "type": "iiifManifest",
+            "manifest": "https://collections.leventhalmap.org/search/commonwealth:rb690w07m/manifest",
+            "sequence": 0,
+            "canvas": 0,
+            "image": 0,
+            "moreInfo": "https://collections.leventhalmap.org/search/commonwealth:rb690w07m",
+            "id": "3"
+        },
+        {
+            "type": "iiifManifest",
+            "manifest": "https://www.digitalcommonwealth.org/search/commonwealth:63961v18z/manifest",
+            "sequence": 0,
+            "canvas": 0,
+            "image": 0,
+            "moreInfo": "https://www.digitalcommonwealth.org/search/commonwealth:63961v18z",
+            "id": "4"
+        },
+        {
+            "type": "iiifManifest",
+            "manifest": "https://www.digitalcommonwealth.org/search/commonwealth:61090z33v/manifest",
+            "sequence": 0,
+            "canvas": 0,
+            "image": 0,
+            "moreInfo": "https://www.digitalcommonwealth.org/search/commonwealth:61090z33v",
+            "id": "5"
+        },
+        {
+            "type": "iiifManifest",
+            "manifest": "https://www.digitalcommonwealth.org/search/commonwealth:xw42sw06d/manifest",
+            "sequence": 0,
+            "canvas": 0,
+            "image": 0,
+            "moreInfo": "https://www.digitalcommonwealth.org/search/commonwealth:xw42sw06d",
+            "id": "6"
+        },
+        {
+            "type": "iiifManifest",
+            "manifest": "https://www.digitalcommonwealth.org/search/commonwealth:fx71g881f/manifest",
+            "sequence": 0,
+            "canvas": 0,
+            "image": 0,
+            "moreInfo": "https://www.digitalcommonwealth.org/search/commonwealth:fx71g881f",
+            "id": "7"
+        },
+        {
+            "type": "iiifManifest",
+            "manifest": "https://www.digitalcommonwealth.org/search/commonwealth:9w036p672/manifest",
+            "sequence": 0,
+            "canvas": 0,
+            "image": 0,
+            "moreInfo": "https://www.digitalcommonwealth.org/search/commonwealth:9w036p672",
+            "id": "8"
+        },
+        {
+            "type": "iiifManifest",
+            "manifest": "https://www.digitalcommonwealth.org/search/commonwealth:b2778g01q/manifest",
+            "sequence": 0,
+            "canvas": 0,
+            "image": 0,
+            "moreInfo": "https://www.digitalcommonwealth.org/search/commonwealth:b2778g01q",
+            "id": "9"
+        },
+        {
+            "type": "iiifManifest",
+            "manifest": "https://www.digitalcommonwealth.org/search/commonwealth:xs55rz522/manifest",
+            "sequence": 0,
+            "canvas": 0,
+            "image": 0,
+            "moreInfo": "https://www.digitalcommonwealth.org/search/commonwealth:xs55rz522/manifest",
+            "id": "10"
+        },
+        {
+            "type": "iiifManifest",
+            "manifest": "https://www.digitalcommonwealth.org/search/commonwealth:2j62xr97c/manifest",
+            "sequence": 0,
+            "canvas": 0,
+            "image": 0,
+            "moreInfo": "https://www.digitalcommonwealth.org/search/commonwealth:2j62xr97c",
+            "id": "11"
+        },
+        {
+            "type": "iiifManifest",
+            "manifest": "https://www.digitalcommonwealth.org/search/commonwealth:zw133s529/manifest",
+            "sequence": 0,
+            "canvas": 0,
+            "image": 0,
+            "moreInfo": "https://www.digitalcommonwealth.org/search/commonwealth:zw133s529",
+            "id": "12"
+        },
+        {
+            "type": "iiifManifest",
+            "manifest": "https://www.digitalcommonwealth.org/search/commonwealth:w0896v86r/manifest",
+            "sequence": 0,
+            "canvas": 0,
+            "image": 0,
+            "moreInfo": "https://www.digitalcommonwealth.org/search/commonwealth:w0896v86r",
+            "id": "13"
+        },
+        {
+            "type": "iiifManifest",
+            "manifest": "https://www.digitalcommonwealth.org/search/commonwealth:hx123361m/manifest",
+            "sequence": 0,
+            "canvas": 0,
+            "image": 0,
+            "moreInfo": "https://www.digitalcommonwealth.org/search/commonwealth:hx123361m",
+            "id": "14"
+        }
+    ],
+    "scenes": [
+        {
+            "caption": {
+                "text": "A century ago, the best way to see Boston wasn't on a duck tour or a sightseeing bus—it was by riding public transit.",
+                "title": " "
+            },
+            "source": "2",
+            "timestamp": null,
+            "extent": [
+                1684.7749999999996,
+                -7292.025000000001,
+                8950.475,
+                -763.4250000000001
+            ]
+        },
+        {
+            "caption": {
+                "text": "This poster collection, [recently digitized by the Boston Public Library](https://www.digitalcommonwealth.org/collections/commonwealth:zw133s511), helps imagine what it was like to see the city in an era when private automobiles were only just beginning to take over the streets.",
+                "title": null
+            },
+            "source": "2",
+            "timestamp": null,
+            "extent": [
+                526.4749999999985,
+                -9450.675000000001,
+                10214.074999999999,
+                -552.825
+            ]
+        },
+        {
+            "caption": {
+                "text": "In the 1920s, the Boston Elevated Railway (BERy) created its own beautiful series of advertising posters encouraging recreational travel around the city on their trains and streetcars.",
+                "title": null
+            },
+            "source": "2",
+            "timestamp": null,
+            "extent": "fit"
+        },
+        {
+            "caption": {
+                "text": "In this tour, we look at the poster collection alongside a 1927 map of the BERy system to imagine what it would have been like to transit around Boston around the time that the posters were made.",
+                "title": " "
+            },
+            "source": "3",
+            "timestamp": null,
+            "extent": "fit",
+            "moreInfo": "https://collections.leventhalmap.org/search/commonwealth:rb690w07m"
+        },
+        {
+            "caption": {
+                "text": "Our tour begins in Copley Square at the Boston Public Library. Boylston Street was once a primary route for streetcars departing downtown Boston and headed west.",
+                "title": null
+            },
+            "source": "3",
+            "timestamp": null,
+            "extent": [
+                2548.9988677691845,
+                -3317.239715681296,
+                2987.040550142745,
+                -2972.682538692337
+            ],
+            "moreInfo": "https://collections.leventhalmap.org/search/commonwealth:rb690w07m"
+        },
+        {
+            "caption": {
+                "text": "On this map, the red lines show streetcars, the hollow dashed lines show subway tunnels, and the hatched lines show steam railways. Buses, a relatively new addition to transit landscape in 1927, are shown in green.",
+                "title": null
+            },
+            "source": "3",
+            "timestamp": null,
+            "extent": [
+                2166.5566666666673,
+                -6264.056666666667,
+                4194.716666666666,
+                -5440.116666666667
+            ],
+            "moreInfo": "https://collections.leventhalmap.org/search/commonwealth:rb690w07m"
+        },
+        {
+            "caption": {
+                "text": "Copley Square was crisscrossed by multiple forms of transit and would have made a good starting point for sightseeing via the BERy system.",
+                "title": " "
+            },
+            "source": "3",
+            "timestamp": null,
+            "extent": [
+                2437.4108943252863,
+                -3405.322003164685,
+                3143.7668555442056,
+                -2922.1549046920213
+            ],
+            "moreInfo": "https://collections.leventhalmap.org/search/commonwealth:rb690w07m"
+        },
+        {
+            "caption": {
+                "text": "Just east on Boylston Street from Copley Square was the former location of the Boston Museum of Natural History. The museum moved out of this building in the late 1940s and became today's Museum of Science. Today this building is a Restoration Hardware.",
+                "title": null
+            },
+            "source": "4",
+            "timestamp": null,
+            "extent": "fit",
+            "moreInfo": "https://www.digitalcommonwealth.org/search/commonwealth:63961v18z"
+        },
+        {
+            "caption": {
+                "text": "From Boylston Street, we could hop on the Tremont Subway (the predecessor to today's Green Line), or walk a little further downtown and board the Washington Street subway, which would take us to ...",
+                "title": null
+            },
+            "source": "3",
+            "timestamp": null,
+            "extent": [
+                2695.686549177465,
+                -3274.5348529130897,
+                3299.8188467979153,
+                -2709.305013851532
+            ],
+            "moreInfo": "https://collections.leventhalmap.org/search/commonwealth:rb690w07m"
+        },
+        {
+            "caption": {
+                "text": "... the Old State House, just a short distance north at State station.",
+                "title": null
+            },
+            "source": "5",
+            "timestamp": null,
+            "extent": "fit",
+            "moreInfo": "https://www.digitalcommonwealth.org/search/commonwealth:61090z33v"
+        },
+        {
+            "caption": {
+                "text": "Let's head to South Boston next. We can get to Broadway station by several different routes ...",
+                "title": null
+            },
+            "source": "3",
+            "timestamp": null,
+            "extent": [
+                2969.2404844274233,
+                -3363.484084667657,
+                3449.0730093598954,
+                -2702.637427171633
+            ],
+            "moreInfo": "https://collections.leventhalmap.org/search/commonwealth:rb690w07m"
+        },
+        {
+            "caption": {
+                "text": "... and then head out on a streetcar towards City Point.",
+                "title": null
+            },
+            "source": "3",
+            "timestamp": null,
+            "extent": [
+                3120.6234388909907,
+                -3666.5831000332064,
+                4192.483003573507,
+                -3110.1124549541305
+            ],
+            "moreInfo": "https://collections.leventhalmap.org/search/commonwealth:rb690w07m"
+        },
+        {
+            "caption": {
+                "text": "Along the way, we might stop at Dorchester Heights, the famous Revolutionary War site ...",
+                "title": null
+            },
+            "source": "6",
+            "timestamp": null,
+            "extent": "fit",
+            "moreInfo": "https://www.digitalcommonwealth.org/search/commonwealth:xw42sw06d"
+        },
+        {
+            "caption": {
+                "text": "... and then, when we reach City Point, we can visit Fort Independence and Castle Island.",
+                "title": null
+            },
+            "source": "7",
+            "timestamp": null,
+            "extent": "fit",
+            "moreInfo": "https://www.digitalcommonwealth.org/search/commonwealth:fx71g881f"
+        },
+        {
+            "caption": {
+                "text": "Boston's first aquarium, a branch of the Society of Natural History that also operated the museum on Boylston Street, was located here at City Point. It remained here until the 1950s; today's New England Aquarium opened downtown in 1969.",
+                "title": null
+            },
+            "source": "8",
+            "timestamp": null,
+            "extent": "fit",
+            "moreInfo": "https://www.digitalcommonwealth.org/search/commonwealth:9w036p672"
+        },
+        {
+            "caption": {
+                "text": "There was a close relationship between urban tourism and the Boston Elevated system. After all, public transit at this time wasn't seen as just an affordable or environmentally-friendly alternative to driving around in cars. It was _the_ predominant mode of transit for the vast majority of Bostonians. ",
+                "title": " "
+            },
+            "source": "8",
+            "timestamp": null,
+            "extent": [
+                1858.1189994303404,
+                -12578.307165527343,
+                9058.782332763674,
+                -6465.51383219401
+            ],
+            "moreInfo": "https://www.digitalcommonwealth.org/search/commonwealth:9w036p672"
+        },
+        {
+            "caption": {
+                "text": "The transit system didn't just connect people to historic buildings and museums. It also offered access to recreational spaces on the outskirts of the city.",
+                "title": null
+            },
+            "source": "3",
+            "timestamp": null,
+            "extent": [
+                1604.5038349640647,
+                -4778.449118302638,
+                3593.187419906801,
+                -3084.8224450724742
+            ],
+            "moreInfo": "https://collections.leventhalmap.org/search/commonwealth:rb690w07m"
+        },
+        {
+            "caption": {
+                "text": "Franklin Park, for instance, was surrounded by streetcar lines.",
+                "title": null
+            },
+            "source": "3",
+            "timestamp": null,
+            "extent": [
+                2030.4158887260842,
+                -4783.798298242222,
+                2822.172779711077,
+                -4111.551881368171
+            ],
+            "moreInfo": "https://collections.leventhalmap.org/search/commonwealth:rb690w07m"
+        },
+        {
+            "caption": {
+                "text": "Indeed, Franklin Park's early design was based on the assumption that most visitors would arrive by streetcar. ",
+                "title": null
+            },
+            "source": "9",
+            "timestamp": null,
+            "extent": "fit",
+            "moreInfo": "https://www.digitalcommonwealth.org/search/commonwealth:b2778g01q"
+        },
+        {
+            "caption": {
+                "text": "The zoo, opened in 1912, was built in part to provide another incentive for visitors to take a streetcar trip out to the park.",
+                "title": null
+            },
+            "source": "9",
+            "timestamp": null,
+            "extent": [
+                598.7866381835938,
+                -5200.296289062499,
+                7388.056638183594,
+                -884.6362890624999
+            ],
+            "moreInfo": "https://www.digitalcommonwealth.org/search/commonwealth:b2778g01q"
+        },
+        {
+            "caption": {
+                "text": "From Franklin Park, you could go even further south ...",
+                "title": null
+            },
+            "source": "3",
+            "timestamp": null,
+            "extent": [
+                1586.816381835938,
+                -6228.322890625001,
+                3657.229715169271,
+                -3777.629557291667
+            ],
+            "moreInfo": "https://collections.leventhalmap.org/search/commonwealth:rb690w07m"
+        },
+        {
+            "caption": {
+                "text": "... beyond Hyde Park, to reach the Blue Hills Reservation.",
+                "title": null
+            },
+            "source": "3",
+            "timestamp": null,
+            "extent": [
+                1745.871640299297,
+                -6261.479766773156,
+                2413.615026618521,
+                -5553.091130851893
+            ],
+            "moreInfo": "https://collections.leventhalmap.org/search/commonwealth:rb690w07m"
+        },
+        {
+            "caption": {
+                "text": "\"Wilderness\" parks like the Blue Hills, connected to the city by rapid transit, were revolutionary for working-class residents who, unlike wealthy city dwellers, could not afford distant vacations.",
+                "title": " "
+            },
+            "source": "13",
+            "timestamp": null,
+            "extent": "fit",
+            "moreInfo": "https://www.digitalcommonwealth.org/search/commonwealth:w0896v86r"
+        },
+        {
+            "caption": {
+                "text": "On the other side of the city, you could head north beyond Medford and Malden ...",
+                "title": null
+            },
+            "source": "3",
+            "timestamp": null,
+            "extent": [
+                1481.1830485026048,
+                -2826.939873046875,
+                3530.469715169271,
+                -101.59987304687559
+            ],
+            "moreInfo": "https://collections.leventhalmap.org/search/commonwealth:rb690w07m"
+        },
+        {
+            "caption": {
+                "text": "... and reach Spot Pond in the Middlesex Fells by streetcar.",
+                "title": null
+            },
+            "source": "3",
+            "timestamp": null,
+            "extent": [
+                1615.045591855972,
+                -681.5409662733297,
+                2394.1327452561163,
+                -77.07679553183868
+            ],
+            "moreInfo": "https://collections.leventhalmap.org/search/commonwealth:rb690w07m"
+        },
+        {
+            "caption": {
+                "text": "In this poster, the combination of a streetcar passing over a viaduct with a recreational scene serves as a visual reminder of how closely linked public transit was to the development of protected open spaces.",
+                "title": null
+            },
+            "source": "10",
+            "timestamp": null,
+            "extent": "fit",
+            "moreInfo": "https://www.digitalcommonwealth.org/search/commonwealth:xs55rz522/manifest"
+        },
+        {
+            "caption": {
+                "text": "On the way back into the city from Spot Pond ...",
+                "title": null
+            },
+            "source": "3",
+            "timestamp": null,
+            "extent": [
+                1638.3900000000003,
+                -2820.4100000000003,
+                3328.5233333333335,
+                -73.94333333333392
+            ],
+            "moreInfo": "https://collections.leventhalmap.org/search/commonwealth:rb690w07m"
+        },
+        {
+            "caption": {
+                "text": "... we'd transfer at Sullivan Square, where we could pop in to Charlestown ... ",
+                "title": null
+            },
+            "source": "3",
+            "timestamp": null,
+            "extent": [
+                2582.817382443147,
+                -2414.3415066126854,
+                3205.4357665183898,
+                -1891.3420639894816
+            ],
+            "moreInfo": "https://collections.leventhalmap.org/search/commonwealth:rb690w07m"
+        },
+        {
+            "caption": {
+                "text": "... and visit the Bunker Hill Monument.",
+                "title": null
+            },
+            "source": "12",
+            "timestamp": null,
+            "extent": "fit",
+            "moreInfo": "https://www.digitalcommonwealth.org/search/commonwealth:zw133s529"
+        },
+        {
+            "caption": {
+                "text": "From there, we might make a quick jaunt into Somerville ...",
+                "title": null
+            },
+            "source": "3",
+            "timestamp": null,
+            "extent": [
+                2067.512401386032,
+                -2466.4482121316987,
+                2963.9798169952787,
+                -2055.0944929439115
+            ],
+            "moreInfo": "https://collections.leventhalmap.org/search/commonwealth:rb690w07m"
+        },
+        {
+            "caption": {
+                "text": "... to Union Square.",
+                "title": null
+            },
+            "source": "3",
+            "timestamp": null,
+            "extent": [
+                2127.232614815464,
+                -2347.5152291574095,
+                2397.6485634377786,
+                -2181.954444286605
+            ],
+            "moreInfo": "https://collections.leventhalmap.org/search/commonwealth:rb690w07m"
+        },
+        {
+            "caption": {
+                "text": "There, we could walk up Prospect Hill to see another monument to the Revolutionary War.",
+                "title": null
+            },
+            "source": "11",
+            "timestamp": null,
+            "extent": "fit",
+            "moreInfo": "https://www.digitalcommonwealth.org/search/commonwealth:2j62xr97c"
+        },
+        {
+            "caption": {
+                "text": "The Boston Elevated saw itself as more than just a railway operator. It had taken over the Boston region's nineteenth-century transit system ...",
+                "title": null
+            },
+            "source": "14",
+            "timestamp": null,
+            "extent": [
+                715.965,
+                -3390.0649999999996,
+                4987.485,
+                -234.96500000000015
+            ],
+            "moreInfo": "https://www.digitalcommonwealth.org/search/commonwealth:hx123361m"
+        },
+        {
+            "caption": {
+                "text": "... and was constantly trying to modernize it. This work of publicity and promotion became increasingly important in the twentieth century, as the system began to face competition from private automobiles.",
+                "title": null
+            },
+            "source": "14",
+            "timestamp": null,
+            "extent": [
+                5448.615,
+                -3778.385,
+                11273.414999999999,
+                -210.69500000000016
+            ],
+            "moreInfo": "https://www.digitalcommonwealth.org/search/commonwealth:hx123361m"
+        },
+        {
+            "caption": {
+                "text": "To learn more about how the history of Boston was shaped by public transit, see the Leventhal Map & Education Center's exhibition [_Getting Around Town: Mapping Four Centuries of Boston in Transit_](https://www.leventhalmap.org/digital-exhibitions/getting-around-town/).",
+                "title": null
+            },
+            "source": "3",
+            "timestamp": null,
+            "extent": "fit",
+            "moreInfo": "https://collections.leventhalmap.org/search/commonwealth:rb690w07m"
+        },
+        {
+            "caption": {
+                "text": "Then, explore the [full collection of BERy sightseeing posters](https://www.digitalcommonwealth.org/search?f%5Bcollection_name_ssim%5D%5B%5D=Boston+Elevated+Railway+Company+Poster+Collection&f%5Binstitution_name_ssi%5D%5B%5D=Boston+Public+Library&per_page=100). Where would _you_ visit first?",
+                "title": null
+            },
+            "source": "2",
+            "timestamp": null,
+            "extent": "fit"
+        }
+    ]
+}
